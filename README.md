@@ -1,4 +1,4 @@
-# Olá, sou [Turgho] 👋
+# Olá, sou Turgho 👋
 
 Seja bem-vindo ao meu perfil do GitHub! Sou desenvolvedor(a) back-end, e estou sempre buscando aprender e criar projetos interessantes que agregam para o mercado.
 
