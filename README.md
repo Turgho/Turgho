@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu perfil do GitHub! Sou desenvolvedor(a) back-end, e estou sempre buscando aprender e criar projetos interessantes que agregam para o mercado.
 
 ## 🔭 Atualmente estou trabalhando em:
-[![Fashion_Fast](https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=Sistema-FashionFast&show_owner=true&theme=dark&show_icons=true)](https://github.com/Turgho/Sistema-FashionFast)
+[![ShareSpace](https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=ShareSpace&show_owner=true&theme=dark&show_icons=true)](https://github.com/Turgho/ShareSpace)
 [![Barber_Fast](https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=BarberFast&show_owner=true&theme=dark&show_icons=true)](https://github.com/Turgho/BarberFast)
 
 ## 🌱 Aprendendo atualmente:
