@@ -1,4 +1,4 @@
-![Repository Image](repo-image.jpg)
+![Repository Image](repo-image-1.jpg)
 
 ---
 
