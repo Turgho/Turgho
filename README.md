@@ -3,14 +3,13 @@
 ---
 
 # 👤 About Me
+👋 Hello! I'm Turgho, a **.NET** developer passionate about building robust applications and learning new technologies to solve real-world problems.
 
-👋 Hello! I'm **Turgho**, a **fullstack** developer passionate about learning new technologies and solving problems through code.
+🧑‍💻 I have experience with **C#**, **ASP.NET Core**, and **Entity Framework Core**, developing APIs and web applications that integrate with relational databases like **SQL Server** and **PostgreSQL**.
 
-- 🧑‍💻 I have experience in frameworks like **Node.js**, **NestJS**, and **Angular**, and I work with databases such as **MySQL**, **Postgres**, and **MongoDB**. I'm also an advocate for **DevOps** and **CI/CD**, using tools like **Docker** and **GitLab CI**.
+🌱 Currently, I’m enhancing my skills in **Angular** for front-end development and exploring **Microsoft Azure** for deploying and scaling cloud applications.
 
-- 🌱 Currently, I’m diving deep into the **Java**, **Kotlin**, and **Spring** ecosystems, while also exploring **AWS** to scale applications in the cloud.
-
-- 🚀 I strongly believe in **agile development** and collaboration to create quality solutions and bring real value to users.
+🚀 I believe in clean code, SOLID principles, and agile collaboration to deliver high-quality software.
 
 ---
 
@@ -18,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/Turgho/ShareSpace" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=ShareSpace&show_owner=true&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=LogiPedidos&show_owner=true&theme=dark&show_icons=true">
   </a>
   <a href="https://github.com/Turgho/BarberFast" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turgho&repo=BarberFast&show_owner=true&theme=dark&show_icons=true">
@@ -32,31 +31,28 @@
 ### 💻 Languages:
 These are the **main programming languages** I work with and have experience in:
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🧰 Frameworks and Tools:
 Here are the frameworks and tools I use to build **robust** and **scalable** applications:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Testify](https://img.shields.io/badge/Testify-000000?style=flat&logo=testify&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### 💾 Databases:
 These are the databases I use to **store** and **manage** data in my applications:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -71,6 +67,7 @@ These are ORMs I use to **manage queries and databases** in my applications:
 ### ☁️ Hosting:
 Here are the **hosting** and **cloud computing** platforms I use to deploy my applications:
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 💿 Operating Systems:
